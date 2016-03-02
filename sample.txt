@@ -1,0 +1,15 @@
+html{
+	head{
+		title{
+			"ina"
+		}
+	}
+	body{
+		for(a=2 to 5) {
+			div{
+				div{
+				}
+			}
+		}
+	}
+}
